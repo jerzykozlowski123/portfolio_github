@@ -1,0 +1,27 @@
+site_name: Moje projekty
+site_author: Jerzy Kozłowski
+site_description: >-
+    Portfolio moich projektów z Data Science i AI!
+
+
+site_url: https://jerzykozlowski123.github.io/portfolio_github
+site_description: >-
+    Portfolio moich projektów z Data Science i AI!
+
+repo_name: jerzykozlowski123/portfolio_github
+repo_url: https://github.com/jerzykozlowski123/portfolio_github
+
+
+
+theme:
+  name: material
+  palette:
+    primary: light green
+
+nav:
+- Strona Domowa: index.md
+- Najnowszy projekt:
+  - "Grandpa's Portrait": grandpa/index.md
+- Poprzednie projekty:
+  - "HalfMarathon Predictor": marathon/index.md
+  - "Iris": iris/index.md

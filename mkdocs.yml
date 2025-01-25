@@ -21,7 +21,8 @@ theme:
 nav:
 - Strona Domowa: index.md
 - Najnowszy projekt:
-  - "Grandpa's Portrait": grandpa/index.md
+  - "Zapytaj Boba Dylana": ask_dylan/index.md
 - Poprzednie projekty:
+  - "Grandpa's Portrait": grandpa/index.md
   - "HalfMarathon Predictor": marathon/index.md
   - "Iris": iris/index.md

@@ -7,6 +7,8 @@ To nie tylko ciekawostka dla fanów, ale także sposób na głębsze zanurzenie 
 
 Krótko mówiąc, to idealny przykład, jak można połączyć sztukę z nowoczesną technologią, tworząc aplikację, która bawi, uczy i inspiruje.
 
+To jedynie prototyp pokazujący możliwości technologii. Docelowo aplikacja może działać z najnowszym modelem AI, ucząc się danych o konkretnym biznesie — produktach, procedurach i nie tylko. Pozwoli to na rozmowę z nią jak z przedstawicielem firmy lub doradcą znającym branżę.
+
 <a href="https://ask-dylan-peh8h.ondigitalocean.app/" class="md-button md-button--primary">Przejdź do aplikacji</a>
 
 ![Website Screenshot](Dylan_FP.PNG)

@@ -20,10 +20,9 @@ theme:
 
 nav:
 - Strona Domowa: index.md
-- "Najnowszy projekt:"
 - "Inteligentny Asystent Decyzyjny": iad/index.md
+- "Zapytaj Boba Dylana": ask_dylan/index.md
+- "Grandpa's Portrait": grandpa/index.md
 - Poprzednie projekty:
-  - "Zapytaj Boba Dylana": ask_dylan/index.md
-  - "Grandpa's Portrait": grandpa/index.md
   - "HalfMarathon Predictor": marathon/index.md
   - "Iris": iris/index.md

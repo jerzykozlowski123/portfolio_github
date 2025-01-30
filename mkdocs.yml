@@ -20,7 +20,7 @@ theme:
 
 nav:
 - Strona Domowa: index.md
-- Najnowszy projekt:
+- Najnowszy projekt
 - "Inteligentny Asystent Decyzyjny": iad/index.md
 - Poprzednie projekty:
   - "Zapytaj Boba Dylana": ask_dylan/index.md

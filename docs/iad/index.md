@@ -1,14 +1,14 @@
 
-# Zapytaj Boba Dylana
+# Inteligentny Asystent Decyzyjny
 
-Aplikacja jest unikalnym narzędziem dla fanów twórczości Boba Dylana oraz wszystkich miłośników muzyki i poezji. Dzięki wykorzystaniu sztucznej inteligencji, użytkownicy mogą zadawać pytania lub poruszać dowolne tematy, a aplikacja odpowiada w stylu eksperta znającego twórczość Dylana na wylot. W odpowiedziach AI wplata cytaty z jego piosenek, podaje tytuły i odnosi się do motywów przewodnich utworów.
+Wyobraź sobie aplikację, która na podstawie krótkiego opisu Twojego problemu kreatywnie go rozwija, podając konkretne rozwiązania i metody działania—tak jak drzewo decyzyjne. Nie korzysta z zaawansowanych metod analizy danych, ale opiera się na inteligentnych odpowiedziach generowanych przez model GPT-4o-mini.
 
-To nie tylko ciekawostka dla fanów, ale także sposób na głębsze zanurzenie się w świat poezji i filozofii zawartych w tekstach Dylana. Aplikacja prezentuje jego twórczość w nowym świetle, łącząc analizę artystyczną z interaktywną rozmową. Może być doskonałym narzędziem edukacyjnym, inspiracją dla artystów czy po prostu rozrywką dla tych, którzy kochają inteligentne i nietuzinkowe treści.
+Teraz pomyśl, że przełączamy ją na najnowszy, najbardziej zaawansowany model AI, dodatkowo przeszkolony na szczegółowych danych z Twojej branży. Aplikacja, która rozumie specyficzne potrzeby i terminologię Twojego sektora, może stać się niezastąpionym narzędziem w codziennej pracy.
 
-Krótko mówiąc, to idealny przykład, jak można połączyć sztukę z nowoczesną technologią, tworząc aplikację, która bawi, uczy i inspiruje.
+Takie spersonalizowane narzędzie mogłoby znacząco usprawnić Twoje procesy, oferując świeże spojrzenie na problemy i proponując innowacyjne rozwiązania. Zamiast tracić czas na samodzielne analizowanie wszystkich możliwych ścieżek, otrzymujesz kompleksowe wsparcie w podejmowaniu decyzji. To nie tylko przyspiesza realizację zadań, ale także podnosi jakość podejmowanych decyzji, dostarczając Ci różnorodnych perspektyw i pomysłów.
 
-To jedynie prototyp pokazujący możliwości technologii. Docelowo aplikacja może działać z najnowszym modelem AI, ucząc się danych o konkretnym biznesie — produktach, procedurach i nie tylko. Pozwoli to na rozmowę z nią jak z przedstawicielem firmy lub doradcą znającym branżę.
+Wyobraź sobie, jak taka aplikacja mogłaby pomóc w codziennych wyzwaniach—od planowania projektów, poprzez rozwiązywanie konkretnych problemów, aż po strategię rozwoju. Dzięki niej możesz skupić się na kluczowych aspektach swojej pracy, mając pewność, że masz dostęp do kreatywnych i przemyślanych rozwiązań wspieranych przez najnowszą technologię AI.
 
-<a href="https://ask-dylan-peh8h.ondigitalocean.app/" class="md-button md-button--primary">Przejdź do aplikacji</a>
+<a href="https://iad-m3mqd.ondigitalocean.app/" class="md-button md-button--primary">Przejdź do aplikacji</a>
 
-![Website Screenshot](Dylan_FP.PNG)
+![Website Screenshot](iad_full.png)

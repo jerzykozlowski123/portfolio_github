@@ -12,7 +12,7 @@ W aplikacji zastosowano wiele zaawansowanych narzędzi:
 - **Universal Sentence Encoder** - wytworzył do tych opisów ich reprezentację wektorową.
 - Te wektory są porównywane ze sobą i wybierany jest najlepiej dopasowany opis do zdjęcia. 
 - Wybrany opis jest wysyłany do modelu AI **Dall-E** w celu wygenerowania zdjęcia.
-- I jeszcze dorbnostka - **Chat GPT-4o-mini** z kolei zamienia wybrany kraj, w którym żył nasz przodek na przymiotnik potrzebny do opisu ubioru który był powszechny w tym kraju.
+- I jeszcze drobnostka - **Chat GPT-4o-mini** z kolei zamienia wybrany kraj, w którym żył nasz przodek na przymiotnik potrzebny do opisu ubioru który był powszechny w tym kraju.
 
 Miłej zabawy! 
 
